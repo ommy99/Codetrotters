@@ -1,0 +1,122 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>John Doe</title>
+    <meta charset="utf8"/>
+  </head>
+  <body>
+   <h1>John Doe</h1>
+<p style="font-size:110%;">Date of application:<strong>April 14, 2016.</strong>
+</p>
+<p style="font-size:110%;"><strong>Content.</strong>
+</p>
+<ul>
+  <li><p style="font-size:75%;">1.<a href="https://www.w3schools.com/html/">Location.</a></p></li>
+  <li><p style="font-size:75%;">2.<a href="https://www.w3schools.com/html/">Personal Information.</a></p></li>
+  <li><p style="font-size:75%;">3.<a href="https://www.w3schools.com/html/">Experience and Academic Preparation.</a></p></li>
+  <li><p style="font-size:75%;">4.<a href="https://www.w3schools.com/html/">Skills and Reasons.</a></p>
+</ul>
+<p style="font-size:110%;"><strong>Location.</strong>
+</p>
+<p>
+<strong>Cities</strong>:Boston, New York, San Francisco
+</p>
+<p style="font-size:110%;"><strong>Personal Information.</strong>
+</p>
+</style>
+</head>
+<body>
+  <table style="width:50%">
+    <tr>
+      <th><p style="font-size:75%;">Email:<a href="https://www.w3schools.com/html/">johndoe@gmail.com.</a></p></th>
+      <th></th>
+      <th><p style="font-size:75%;"><strong>Primary Phone</strong>:1-800-123-2123</p></th>
+    </tr>
+    <tr>
+      <th><p>Address:Mountain view </p></th>
+      <th></th>
+      <th><p style="font-size:75%;"><strong>Secondary Phone</strong>:1-800-123-2123</p></th>
+    </tr>
+    <tr>
+      <th><p>Town:Mountain view </p></th>
+      <th></th>
+      <th><p style="font-size:75%;"><strong>Hobby</strong>:Reading</p></th>
+    </tr>
+    <tr>
+      <th><p>Zip code: 78123 </p></th>
+      <th></th>
+      <th><p style="font-size:75%;"><strong>Github URL</strong><a href="https://www.w3schools.com/html/"> eluciano</a></p></th>
+    </tr>
+  </table>
+  <p style="font-size:110%;"><strong>Experience and Academic Preparation.</strong></p>
+<table style="width:50%">
+
+  <tr>
+    <th>Academic preparation form </th>
+    <th>Unit</th>
+    <th>Academic preparation specialty</th>
+  </tr>
+  <tr>
+    <td>University</td>
+    <td>August 13,2011 December 13,2016</td>
+    <td>New York Universty Compute Science Information Systems</td>
+  </tr>
+  <tr>
+    <td>High school</td>
+    <td>August 8,2007 May 25,2011</td>
+    <td>University High School N/A</td>
+  </tr>
+</table>
+  <p style="font-size70%;"><strong>Type of work Experience.</strong></p>
+  <P> Frontend   Backend   Datamining  Data Visualization</p>
+    <p style="font-size70%;"><strong>Reference<strong></p>
+      <p><ul>
+        <li><p style="font-size:77%;">1. Jane Doe: 1-800-123-3245</a></p></li>
+        <li><p style="font-size:77%;">2. Fransis Doe: 1-800-123-3245</a></p></li>
+        <p style="font-size:110%;"><strong>Skills and reasons</strong></p>
+<p><strong>Availeble to start</strong>:Mat 1,2016.</p>
+}
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+  <tr>
+    <td>Ernst Handel</td>
+    <td>Roland Mendel</td>
+    <td>Austria</td>
+  </tr>
+  <tr>
+    <td>Island Trading</td>
+    <td>Helen Bennett</td>
+    <td>UK</td>
+  </tr>
+  <tr>
+    <td>Laughing Bacchus Winecellars</td>
+    <td>Yoshi Tannamuri</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>Magazzini Alimentari Riuniti</td>
+    <td>Giovanni Rovelli</td>
+    <td>Italy</td>
+  </tr>
+</table>
+      </ul>
+  </body>
+  </html>
